@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Stupid little thing</title>
+  <style>
+    body {
+      background-color: darkblue;
+      color: orange;
+      text-align: center;
+      font-family: "Comic Sans MS", sans-serif;
+      margin: 0;
+      padding: 20px;
+    }
+
+    .page {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    .intro {
+      background-color: rgb(85, 85, 164);
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 20px auto;
+    }
+
+    ul {
+      display: table;
+      margin: 0 auto;
+      text-align: left;
+    }
+  </style>
+</head>
+<body>
+
+<main class="page">
+<h1>Stupid little thing</h1>
+
+<div class="intro">
+  <p>hiya !! im honestly not too sure what to put here. i made a similar website type thing a while ago but forgot most of what i did so this is basically new to me.</p>
+  <p>im megan, im currently 15 and i dont really do much ? i play games, thats about it.</p>
+  <p>on this website i'll prolly overexplain random things and maybe do little diary entry type things, im unsure</p>
+</div>
+
+<img src="intro card.png" alt="intro card thing">
+
+<div class="loserthingy"
+<p>as for projects, i dont really have any ?</p>
+<p>i have an idea for a pokemon rom hack but ive only really started on making sprites and it took me ages to finish just bulbasaur.</p>
+<p>i write fanfics on ao3 (@scorpionstripes) but i never get around to finishing them.</p>
+<p>i post on youtube and tiktok but i lose motivation and stop posting super easily (@zoffien on both)</p>
+<p>overall i dont do too much, im hoping learning all this code stuff will give me something to do, yknow?</p>
+</div>
+
+<p>nowwww for gifs of my top three interests ! yyes, im just doing this to see if i can put gifs here correctly ..</p>
+  <img src="umbreon.gif" alt="cute umbreon gif">
+<p>for the fiiirst interest we have pokemon ! my favourite type is the ghost type, yes i know umbreons a dark type hush, and my top three pokemon would prolly be decidueye, mimikyu, and marshadow</p>
+  <img src="shigaraki-smile.gif" alt="me irl"> 
+  <p>second interest iiiiissss my hero academia ! now i know this makes me seem like a chud but hush . it was one of my first animes and i genuinely love shigaraki sm hes so me. i havent watched it in ages, i just read fanfics like a real man</p>
+  <img src="mizuki.gif" alt="mizuki overwatch">
+  <p>i wasnt really sure what to put for the last interest because tbh i have many many fandoms. i put an overwatch gif cuz ive been playing it most recently but ill give a list now of honourable mentions!</p>
+  <ul>
+  <li>genshin impact</li>
+  <li>no mans sky</li>
+  <li>tamagotchi</li>
+  <li>splatoon</li>
+  <li>handheld consoles like in general i collect them etc</li>
+  <li>and many, many more things.....</li>
+  </ul>
+</main>
+</body>
+</html>
