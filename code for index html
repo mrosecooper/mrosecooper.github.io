@@ -5,11 +5,11 @@
                 
                 
             <nav id="navbar" style="margin-bottom: 0px;"><ul>
-                <li><a href="page2maybe.html">About Me!</a></li>
-                <li><a href="random">Journal</a></li>
-                <li><a href="ss">Projects</a></li>
-                <li><a href="sss">Ramblings</a></li>
-                <li><a href="sss">Other</a></li>
+                <li><a href="aboutme.html">About Me!</a></li>
+                <li><a href="journal.html">Journal</a></li>
+                <li><a href="neography.html">Neography</a></li>
+                <li><a href="ramblings.html">Ramblings</a></li>
+                <li><a href="other.html">Other</a></li>
               </ul></nav></div>
 
             <div id="flex">
@@ -45,16 +45,7 @@
             </ul></aside></div>
             
         <footer id="footer" style="margin-top: 0px;"></footer></div>
-        <!-- THIS IS THE CSS !-->
-        <style>
-            /* user styles */
-
-            /* styles are what change the color and sizes of stuff on your site. */
-
-            /* these are variables that are being used in the code
-    these tended to confuse some people, so I only kept 
-    the images as variables */
-
+      
             :root {
                 --header-image: url('backgroundstars.png');
                 --body-bg-image: url('spacebg.jpg');
@@ -62,18 +53,6 @@
                 /* colors */
                 --content: #43256E;
             }
-
-            /* if you have the URL of a font, you can set it below */
-            /* feel free to delete this if it's not your vibe */
-
-            /* this seems like a lot for just one font and I would have to agree 
-    but I wanted to include an example of how to include a custom font.
-    If you download a font file you can upload it onto your Neocities
-    and then link it! Many fonts have separate files for each style
-    (bold, italic, etc. T_T) which is why there are so many!
-    
-    */
-
             @font-face {
                 font-family: Nunito;
                 src: url('https://sadhost.neocities.org/fonts/Nunito-Regular.ttf');
