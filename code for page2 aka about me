@@ -54,6 +54,11 @@
 
     .button {
       background-color: rgb(85, 85, 164);
+      color:orange;
+    }
+
+    .button li a {
+      color:orange;
     }
     
   </style>
@@ -66,7 +71,6 @@
 <div class="intro">
   <p>hiya !! im honestly not too sure what to put here. i made a similar website type thing a while ago but forgot most of what i did so this is basically new to me.</p>
   <p>im megan, im currently 15 and i dont really do much ? i play games, thats about it.</p>
-  <p>on this website i'll prolly overexplain random things and maybe do little diary entry type things, im unsure</p>
 </div>
 
 <img src="intro card.png" alt="intro card thing">
@@ -99,7 +103,7 @@
 
   <div class="button">
   <ul>
-  <li><a href="index.html">Send me back!</a></li>
+  <li><strong><a href="index.html">Send me back!</a></strong></li>
   </ul>
   </div>
 
